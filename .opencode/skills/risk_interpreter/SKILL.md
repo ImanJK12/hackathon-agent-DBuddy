@@ -43,7 +43,7 @@ Recommendation:
 
 This will probably become your most impressive demo feature.
 
-### Health-Insight/SKILL.md
+Health-Insight/SKILL.md
 
 ---
 name: health-insight
