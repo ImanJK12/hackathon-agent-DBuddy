@@ -1,0 +1,6 @@
+participant_id,age,height_cm,gender,exercise_hours_per_week
+DM001,68,178,Female,"6,1"
+DM002,50,168,Female,"1,4"
+DM003,53,185,Male,6
+DM004,51,151,Male,"6,8"
+DM005,67,151,Male,"7,9"
