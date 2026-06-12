@@ -1,6 +1,6 @@
 ---
 name: Data Collector 
-description: read information about the user from <    > when the user <starts a chat>. .
+description: Use when health, glucose, exercise, sleep, nutrition, environment, or patient trends are needed. Retrieves the latest patient data from the demo dataset before any analysis. .
 ---
 
 # Your Skill
