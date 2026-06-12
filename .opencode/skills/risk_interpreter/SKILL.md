@@ -37,17 +37,3 @@ Risk Score:
 Risk Level:
 Recommendation:
 
-# Contributing Factors:
-
-## Add a Health Insight Skill
-
-This will probably become your most impressive demo feature.
-
-Health-Insight/SKILL.md
-
----
-name: health-insight
-description: Use when the user asks why something happened, wants personalised observations, or requests a summary of important patterns in their data.
-metadata:
-  difficulty: advanced
----
